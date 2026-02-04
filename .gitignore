@@ -1,0 +1,9 @@
+# Google Drive / System Files
+desktop.ini
+.DS_Store
+Icon?
+.tmp.drivedownload/
+.temp/
+
+# Git
+.git/
